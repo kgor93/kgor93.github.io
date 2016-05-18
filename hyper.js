@@ -529,7 +529,7 @@ var pointOnLine = function(t, a, b) {
 	 * @default 50
 	 * @type {Number}
 	 */
-	 this.millis = _params.millis || 500;
+	 this.millis = _params.millis || 125;
 
 	/**
 	 * @default 0
